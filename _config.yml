@@ -1,0 +1,16 @@
+# User config
+author: "iiee"
+tagline: "iiee tagline"
+description: "iiee desc"
+keywords: "Pineapple, Pineapple Pizza, Pineapple House"
+email: "iiee@naver.com"
+linkedin: "https://www.linkedin.com/"
+twitter: "https://twitter.com/"
+github: "https://github.com/"
+
+# Site config
+baseurl: ""
+highlighter: rouge
+sass:
+  sass_dir: assets/scss
+  style: compressed
